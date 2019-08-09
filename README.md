@@ -4,7 +4,7 @@ kernel deb ubuntu image 5.3-rc3 X86_64 zstd config
 От рута открыть проводник и адрес /lib/firmware/i915 и все файлы из папки i915 закинуть в /lib/firmware/i915 затем 
 установка deb. Если установили наперед deb то в терминале от суперпользователя update-initramfs -u -v && update-grub
 
-Download deb + config: https://drive.google.com/open?id=1N6ZMaaI1sTTLCntHweMZyEXFJ-XpDsud
+Download deb + config: https://drive.google.com/open?id=1W-ZJa8UTLiJO-P3qwf4M3khgpb74cNul
 
 
 
